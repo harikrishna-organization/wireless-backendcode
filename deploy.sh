@@ -1,4 +1,3 @@
 this is deploy project
-this is deploy scripts
-this is deploy shells
+Hey geys this is updating on remote repo
 updated the code in deploy file
