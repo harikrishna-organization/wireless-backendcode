@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this file from master branch
 we r from master branch
+=======
+this is text file in bugfix branch
+we r bugfix txt
+>>>>>>> bugfix
